@@ -19,7 +19,7 @@ public class Test2 {
         t1.start();
         t2.start();
         t3.start();
-
+        System.out.println(111);
 
 
     }
